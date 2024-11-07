@@ -1,6 +1,8 @@
 {
     "cSpell.words": [
         "notfound",
-        "nvarchar"
-    ]
+        "nvarchar",
+        "tailwindcss"
+    ],
+    "git.ignoreLimitWarning": true
 }
